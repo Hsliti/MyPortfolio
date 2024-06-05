@@ -1,0 +1,16 @@
+body{
+    background: #7c73e6;
+}
+h1{
+    position: relative;
+    font-weight: 600;
+    font-size: 100px;
+    float: left;
+    color: #97cba9;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 440px;
+}
